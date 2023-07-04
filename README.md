@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science And Engineering With Data Science And Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sham-johari-portfolio](https://sites.google.com/view/sham-johari-portfolio)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sham-johari-portfolio](https://sites.google.com/view/sham-johari-portfolio/project)
 
 - 💬 Ask me about **Data Science | Machine Learning | Python**
 
