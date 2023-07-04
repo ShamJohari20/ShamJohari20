@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Sham Johari</h1>
 <h3 align="center">Data Science Enthusiast | 2x NPTEL Certified | Machine Learning | Python</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+
 
 - 🌱 I’m currently learning **Computer Science And Engineering With Data Science And Machine Learning**
 
