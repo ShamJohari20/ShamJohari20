@@ -1,6 +1,10 @@
-[![MasterHead](https://drive.google.com/file/d/1L--I6Dg6A-s2rYh0WNFqXLQ2NPk9ZIf2/view?usp=drivesdk)
+[![MasterHead](https://github.com/ShamJohari20/ShamJohari20/blob/main/Data%20Science%20ld.png)
+
+
 <h1 align="center">Hi 👋, I'm Sham Johari</h1>
 <h3 align="center">Data Science Enthusiast | 2x NPTEL Certified | Machine Learning | Python</h3>
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🌱 I’m currently learning **Computer Science And Engineering With Data Science And Machine Learning**
 
