@@ -1,13 +1,13 @@
-![MasterHead](https://github.com/ShamJohari20/ShamJohari20/blob/main/Data%20Science%20ld.png)
+![MasterHead](https://github.com/ShamJohari20/ShamJohari20/blob/main/Full%20Stack%20Java%20By%20Sham%20Johari.png)
 
 <h1 align="center">Hi 👋, I'm Sham Johari</h1>
-<h3 align="center">Data Science Enthusiast | 2x NPTEL Certified | Machine Learning | Python | Java | SQL </h3>
+<h3 align="center">Java Full Stack Developer | HTML, CSS, JS, Bootstrap, Tailwind CSS, React JS | Java SE & Java EE, Spring, Spring Boot, Microservices | Oracle SQL & PL/SQL | DevSecOps Tools | AWS Basics</h3>
 
 - 🌱 I have completed bachelor's in **Computer Science and Engineering**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/sham-johari-portfolio/project](https://sites.google.com/view/sham-johari-portfolio/project)
 
-- 💬 Ask me about **Data Science | Machine Learning | Python | Java | SQL**
+- 💬 Ask me about **Java Full Stack Developer | HTML, CSS, JS, Bootstrap, Tailwind CSS, React JS | Java SE & Java EE, Spring, Spring Boot, Microservices | Oracle SQL & PL/SQL | DevSecOps Tools | AWS Basics**
 
 - 📫 How to reach me **Shamjohari101@gmail.com**
 
