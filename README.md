@@ -28,22 +28,24 @@
     <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/></td>
 <!--     <td><img src="https://www.vectorlogo.zone/logos/git/git-icon.svg" alt="GIT" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/maven/maven-icon.svg" alt="Maven" width="40" height="40"/></td> -->
     <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></td>
 <!--     <td><img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="Jira" width="40" height="40"/></td> -->
     <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Dockers" width="40" height="40"/></td>
+     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="40" height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" width="40" height="40"/></td>
 <!--     <td><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="Sonarqube" width="40" height="40"/></td> -->
-    <td><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/></td>
+<!--     <td><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/slf4j/slf4j-icon.svg" alt="SLF4J" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" alt="jUnit" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/mockito/mockito-icon.svg" alt="Mockito" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/elk/elk-icon.svg" alt="ELK" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/jmeter/jmeter-icon.svg" alt="Jmeter" width="40" height="40"/></td> -->
-    <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></td>
+<!--     <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></td> -->
 <!--     <td><img src="https://www.vectorlogo.zone/logos/chef/chef-icon.svg" alt="Chef" width="40" height="40"/></td> -->
   </tr>
 </table>
