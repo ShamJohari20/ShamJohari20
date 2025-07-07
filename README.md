@@ -5,13 +5,13 @@
 
 - 🌱 I have completed bachelor's in **Computer Science and Engineering**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sham-johari-portfolio/project](https://sites.google.com/view/sham-johari-portfolio/project)
+- 👨‍💻 All of my projects are available at [https://sham-johari.vercel.app](https://sham-johari.vercel.app)
 
 - 💬 Ask me about **Java Full Stack Development**
 
 - 📫 How to reach me **Shamjohari101@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/sham-johari-portfolio](https://sites.google.com/view/sham-johari-portfolio)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sham-johari](https://www.linkedin.com/in/sham-johari)
 
 
 <h3 align="left">Languages and Tools:</h3>
